@@ -5,7 +5,7 @@ My dream is to become a full stack developer ✨
 [![My Stats](https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Tools that i have used or learned
+# Tools I Have Used or Learned
 <table style="background:#ccc" width="600px">
     <thead>
         <tr>
