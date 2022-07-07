@@ -13,27 +13,27 @@
     </thead>
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="80px" align="center" style="padding: 5px;">
                 <span><strong>HTML</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="80px" align="center" style="padding: 5px;">
                 <span><strong>CSS</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="80px" align="center" style="padding: 5px;">
                 <span><strong>Javascript</strong></span><br>
                 <img height="40px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             </td>
-            <td width="80px" align="center">
+            <td width="80px" align="center" style="padding: 5px;">
                 <span><strong>JQuery</strong></span><br>
                 <img height="40px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
             </td>
         </tr>
         <tr valign="top">
-            <td width="80px" align="center" colspan="4">
+            <td width="80px" align="center" colspan="4" style="padding: 5px;">
                 <span><strong>PHP</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
             </td>
