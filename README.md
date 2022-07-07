@@ -29,7 +29,7 @@
             <td width="80px" align="center">
                 <span><strong>JQuery</strong></span><br>
                 <img height="40px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
             </td>
         </tr>
         <tr valign="top">
@@ -59,7 +59,7 @@
             <td width="80px" align="center">
                 <span><strong>Next JS</strong></span><br>
                 <img height="40px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>Vue JS</strong></span><br>
@@ -196,7 +196,7 @@
             <td width="80px" align="center">
                 <span><strong>Gitlab</strong></span><br>
                 <img height="40px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
             </td>
         </tr>
     </tbody>
