@@ -1,5 +1,6 @@
-### Hi there my👋
-
+### 👋 Hi, I'm Michael Halim 👋
+### I'm a final year student at Petra Christian University 🎓
+### My dream is to become a full stack developer ✨
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -53,31 +54,31 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-                <span><strong>React JS</strong></span><br>
+                <span><strong>React</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>Next JS</strong></span><br>
+                <span><strong>Next</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>Vue JS</strong></span><br>
+                <span><strong>Vue</strong></span><br>
                 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
             </td>
             <td width="80px" align="center">
-                <span><strong>Nuxt JS</strong></span><br>
+                <span><strong>Nuxt</strong></span><br>
                 <img height="40px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
             </td>
         </tr>
         <tr valign="top" style="border-spacing:0 15px;">
             <td width="80px" align="center">
-                <span><strong>Node JS</strong></span><br>
+                <span><strong>Node</strong></span><br>
                 <img height="40px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
             </td>
             <td width="80px" align="center">
-                <span><strong>Express JS</strong></span><br>
+                <span><strong>Express</strong></span><br>
                 <img height="40px"
                     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
             </td>
