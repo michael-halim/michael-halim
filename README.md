@@ -1,4 +1,4 @@
 ### Hi there my👋
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michael-halim&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
