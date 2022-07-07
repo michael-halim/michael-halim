@@ -3,7 +3,7 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<table width="320px">
+<table style="background:#ccc" width="600px">
     <thead>
         <tr>
             <td align="center" colspan="5">
@@ -42,7 +42,7 @@
 </table>
 
 <div style="margin-top: 20px;"></div>
-<table width="320px">
+<table style="background:#ccc" width="600px">
     <thead>
         <tr>
             <td align="center" colspan="5">
@@ -58,8 +58,7 @@
             </td>
             <td width="80px" align="center">
                 <span><strong>Next JS</strong></span><br>
-                <img height="40px"
-                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+                <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
                 <span><strong>Vue JS</strong></span><br>
@@ -95,7 +94,7 @@
 </table>
 <div style="margin-top: 20px;"></div>
 
-<table width="320px">
+<table style="background:#ccc" width="600px">
     <thead>
         <tr>
             <td align="center" colspan="5">
@@ -141,7 +140,7 @@
 </table>
 <div style="margin-top: 20px;"></div>
 
-<table width="320px">
+<table style="background:#ccc" width="600px">
     <thead>
         <tr>
             <td align="center" colspan="5">
@@ -175,7 +174,7 @@
 </table>
 <div style="margin-top: 20px;"></div>
 
-<table width="320px">
+<table style="background:#ccc" width="600px">
     <thead>
         <tr>
             <td align="center" colspan="5">
