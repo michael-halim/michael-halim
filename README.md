@@ -4,10 +4,10 @@ Great interest for Full Stack Web Developer ✨<br />
 Sometimes do Data Science 👨‍🔬📁<br /><br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
 </a>
 
 
