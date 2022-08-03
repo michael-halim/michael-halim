@@ -40,6 +40,7 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </p>
