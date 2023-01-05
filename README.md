@@ -3,12 +3,12 @@ Final Year Student at Petra Christian University 🎓<br />
 Great interest for Full Stack Web Developer ✨<br />
 Sometimes do Data Science 👨‍🔬📁<br /><br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
-</a>
+</a> -->
 
 
 ## Tools I Currently Learning or Using
