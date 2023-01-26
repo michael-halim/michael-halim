@@ -19,7 +19,7 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
 <img height="40px" src="https://revel.github.io/img/revelhat.png">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" />              
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />        
 </p>
 
 ## Tools I Have Used or Learned
