@@ -3,12 +3,12 @@ Final Year Student at Petra Christian University 🎓<br />
 Great interest for Full Stack Web Developer ✨<br />
 Sometimes do Data Science 👨‍🔬📁<br /><br />
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-halim&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
-</a> -->
+</a>
 
 
 ## Tools I Currently Learning or Using
@@ -18,6 +18,8 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
 <img height="40px" src="https://revel.github.io/img/revelhat.png">
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-plain-wordmark.svg" />              
 </p>
 
 ## Tools I Have Used or Learned
