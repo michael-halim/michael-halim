@@ -14,7 +14,7 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 ## Tools I Currently Learning or Using
 <p>
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />          
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />        
 </p>
