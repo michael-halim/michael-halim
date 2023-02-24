@@ -13,11 +13,8 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 
 ## Tools I Currently Learning or Using
 <p>
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
-<img height="40px" src="https://revel.github.io/img/revelhat.png">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />        
 </p>
@@ -47,4 +44,8 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
+<img height="40px" src="https://revel.github.io/img/revelhat.png">
 </p>
