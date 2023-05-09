@@ -1,5 +1,5 @@
 # Hi, I'm Michael Halim 🧑🏻👋<br />
-Final Year Student at Petra Christian University 🎓<br />
+Petra Christian University Graduate 2023 🎓<br />
 Great interest for Full Stack Web Developer ✨<br />
 Sometimes do Data Science 👨‍🔬📁<br /><br />
 
