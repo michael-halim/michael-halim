@@ -19,6 +19,7 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />    
 <img height="40px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
 <img height="40px" src="https://avatars.githubusercontent.com/u/15127678?s=200&v=4" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </p>
 
 ## Tools I Have Used or Learned
