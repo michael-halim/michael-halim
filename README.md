@@ -20,6 +20,7 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
 <img height="40px" src="https://avatars.githubusercontent.com/u/15127678?s=200&v=4" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 </p>
 
 ## Tools I Have Used or Learned
@@ -43,7 +44,6 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />          
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
@@ -51,4 +51,6 @@ Sometimes do Data Science 👨‍🔬📁<br /><br />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
 <img height="40px" src="https://revel.github.io/img/revelhat.png">
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+          
 </p>
